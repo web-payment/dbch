@@ -66,5 +66,23 @@
     "expiryDate": "2025-11-12T18:55:12.283Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-2F0F4B",
+    "username": "akemila",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 1050,
+      "disk": 1050,
+      "cpu": 40,
+      "egg": "16",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-13T19:22:40.098Z",
+    "panelExpiryDate": "2025-11-12T19:22:40.099Z",
+    "warrantyExpiryDate": "2025-10-28T19:22:40.099Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
