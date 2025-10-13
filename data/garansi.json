@@ -49,5 +49,22 @@
     "expiryDate": "2025-11-12T18:27:37.079Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-9368B1",
+    "username": "literasi",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 1050,
+      "disk": 1050,
+      "cpu": 40,
+      "egg": "16",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-13T18:55:12.282Z",
+    "expiryDate": "2025-11-12T18:55:12.283Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
