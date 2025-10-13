@@ -32,5 +32,22 @@
     "expiryDate": "2025-11-12T17:19:03.067Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-77DE5F",
+    "username": "ngetesa",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 5050,
+      "disk": 5050,
+      "cpu": 120,
+      "egg": "16",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-13T18:27:37.078Z",
+    "expiryDate": "2025-11-12T18:27:37.079Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
