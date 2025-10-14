@@ -102,5 +102,23 @@
     "warrantyExpiryDate": "2025-10-29T03:03:50.067Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-9FCAA0",
+    "username": "abi",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 0,
+      "disk": 0,
+      "cpu": 0,
+      "egg": "16",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-14T09:19:11.563Z",
+    "panelExpiryDate": "2025-11-13T09:19:11.565Z",
+    "warrantyExpiryDate": "2025-10-29T09:19:11.564Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
