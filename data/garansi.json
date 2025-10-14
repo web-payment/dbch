@@ -84,5 +84,23 @@
     "warrantyExpiryDate": "2025-10-28T19:22:40.099Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-842D5D",
+    "username": "zall",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 0,
+      "disk": 0,
+      "cpu": 0,
+      "egg": "16",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-14T03:03:50.066Z",
+    "panelExpiryDate": "2025-11-13T03:03:50.068Z",
+    "warrantyExpiryDate": "2025-10-29T03:03:50.067Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
