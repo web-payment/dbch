@@ -138,5 +138,23 @@
     "warrantyExpiryDate": "2025-10-30T06:46:50.863Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-FED835",
+    "username": "kzr",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 3050,
+      "disk": 3050,
+      "cpu": 80,
+      "egg": "16",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-15T06:54:15.889Z",
+    "panelExpiryDate": "2025-11-14T06:54:15.889Z",
+    "warrantyExpiryDate": "2025-10-30T06:54:15.889Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
