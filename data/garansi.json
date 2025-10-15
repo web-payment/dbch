@@ -156,5 +156,23 @@
     "warrantyExpiryDate": "2025-10-30T06:54:15.889Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-970CA7",
+    "username": "tesya",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 1050,
+      "disk": 1050,
+      "cpu": 40,
+      "egg": "22",
+      "nestid": "7",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-15T16:51:34.882Z",
+    "panelExpiryDate": "2025-11-14T16:51:34.883Z",
+    "warrantyExpiryDate": "2025-10-30T16:51:34.882Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
