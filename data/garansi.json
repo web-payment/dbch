@@ -174,5 +174,23 @@
     "warrantyExpiryDate": "2025-10-30T16:51:34.882Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-64D1B0",
+    "username": "halo_bang",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 1050,
+      "disk": 1050,
+      "cpu": 40,
+      "egg": "22",
+      "nestid": "7",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-17T03:41:31.888Z",
+    "panelExpiryDate": "2025-11-16T03:41:31.889Z",
+    "warrantyExpiryDate": "2025-11-01T03:41:31.888Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
