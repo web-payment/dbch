@@ -210,5 +210,23 @@
     "warrantyExpiryDate": "2025-11-02T01:18:44.151Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-60CC6B",
+    "username": "mmkeaj",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 5050,
+      "disk": 5050,
+      "cpu": 120,
+      "egg": "23",
+      "nestid": "8",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-18T06:55:29.325Z",
+    "panelExpiryDate": "2025-11-17T06:55:29.328Z",
+    "warrantyExpiryDate": "2025-11-02T06:55:29.327Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
