@@ -192,5 +192,23 @@
     "warrantyExpiryDate": "2025-11-01T03:41:31.888Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-FB2C1A",
+    "username": "ahmad",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 0,
+      "disk": 0,
+      "cpu": 0,
+      "egg": "23",
+      "nestid": "8",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-18T01:18:44.150Z",
+    "panelExpiryDate": "2025-11-17T01:18:44.152Z",
+    "warrantyExpiryDate": "2025-11-02T01:18:44.151Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
