@@ -228,5 +228,23 @@
     "warrantyExpiryDate": "2025-11-02T06:55:29.327Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-71B635",
+    "username": "ybsbot",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 1100,
+      "disk": 1100,
+      "cpu": 40,
+      "egg": "23",
+      "nestid": "8",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-18T09:38:51.474Z",
+    "panelExpiryDate": "2025-11-17T09:38:51.475Z",
+    "warrantyExpiryDate": "2025-11-02T09:38:51.474Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
