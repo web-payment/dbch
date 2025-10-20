@@ -246,5 +246,23 @@
     "warrantyExpiryDate": "2025-11-02T09:38:51.474Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-1BF5DE",
+    "username": "chisato",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 8100,
+      "disk": 8100,
+      "cpu": 180,
+      "egg": "23",
+      "nestid": "8",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-20T01:00:24.835Z",
+    "panelExpiryDate": "2025-11-19T01:00:24.837Z",
+    "warrantyExpiryDate": "2025-11-04T01:00:24.836Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
