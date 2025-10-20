@@ -264,5 +264,23 @@
     "warrantyExpiryDate": "2025-11-04T01:00:24.836Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-09D763",
+    "username": "enjix",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 3100,
+      "disk": 3100,
+      "cpu": 80,
+      "egg": "23",
+      "nestid": "8",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-20T01:51:24.333Z",
+    "panelExpiryDate": "2025-11-19T01:51:24.334Z",
+    "warrantyExpiryDate": "2025-11-04T01:51:24.333Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
