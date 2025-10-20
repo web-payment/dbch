@@ -282,5 +282,23 @@
     "warrantyExpiryDate": "2025-11-04T01:51:24.333Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-4D2264",
+    "username": "hanofficial",
+    "serverDomain": "https://rikishop.panelvripate.my.id",
+    "panelDetails": {
+      "ram": 1100,
+      "disk": 1100,
+      "cpu": 40,
+      "egg": "23",
+      "nestid": "8",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-20T13:11:15.455Z",
+    "panelExpiryDate": "2025-11-19T13:11:15.456Z",
+    "warrantyExpiryDate": "2025-11-04T13:11:15.456Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
