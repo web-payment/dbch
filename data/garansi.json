@@ -318,5 +318,23 @@
     "warrantyExpiryDate": "2025-11-08T00:26:11.418Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-E54550",
+    "username": "kzr",
+    "serverDomain": "https://rikisrv.panelbadak.my.id",
+    "panelDetails": {
+      "ram": 3100,
+      "disk": 3100,
+      "cpu": 80,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-24T00:43:33.140Z",
+    "panelExpiryDate": "2025-11-23T00:43:33.141Z",
+    "warrantyExpiryDate": "2025-11-08T00:43:33.141Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
