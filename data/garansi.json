@@ -354,5 +354,23 @@
     "warrantyExpiryDate": "2025-11-08T00:45:47.339Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-AAEC67",
+    "username": "mmkeaj",
+    "serverDomain": "https://rikisrv.panelbadak.my.id",
+    "panelDetails": {
+      "ram": 5100,
+      "disk": 5100,
+      "cpu": 120,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-24T00:47:24.966Z",
+    "panelExpiryDate": "2025-11-23T00:47:24.966Z",
+    "warrantyExpiryDate": "2025-11-08T00:47:24.966Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
