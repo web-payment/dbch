@@ -336,5 +336,23 @@
     "warrantyExpiryDate": "2025-11-08T00:43:33.141Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-FC4004",
+    "username": "hanofficial",
+    "serverDomain": "https://rikisrv.panelbadak.my.id",
+    "panelDetails": {
+      "ram": 1100,
+      "disk": 1100,
+      "cpu": 40,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-24T00:45:47.339Z",
+    "panelExpiryDate": "2025-11-23T00:45:47.339Z",
+    "warrantyExpiryDate": "2025-11-08T00:45:47.339Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
