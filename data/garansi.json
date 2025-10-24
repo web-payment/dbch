@@ -300,5 +300,23 @@
     "warrantyExpiryDate": "2025-11-04T13:11:15.456Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-739F67",
+    "username": "chisato",
+    "serverDomain": "https://rikisrv.panelbadak.my.id",
+    "panelDetails": {
+      "ram": 8100,
+      "disk": 8100,
+      "cpu": 180,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-24T00:26:11.417Z",
+    "panelExpiryDate": "2025-11-23T00:26:11.418Z",
+    "warrantyExpiryDate": "2025-11-08T00:26:11.418Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
