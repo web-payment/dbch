@@ -390,5 +390,23 @@
     "warrantyExpiryDate": "2025-11-09T02:59:45.026Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-D51069",
+    "username": "botpush1d",
+    "serverDomain": "https://rikisrv.panelbadak.my.id",
+    "panelDetails": {
+      "ram": 5100,
+      "disk": 5100,
+      "cpu": 120,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-25T16:17:13.194Z",
+    "panelExpiryDate": "2025-11-24T16:17:13.195Z",
+    "warrantyExpiryDate": "2025-11-09T16:17:13.195Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
