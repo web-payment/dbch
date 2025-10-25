@@ -372,5 +372,23 @@
     "warrantyExpiryDate": "2025-11-08T00:47:24.966Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-10DEA0",
+    "username": "adip",
+    "serverDomain": "https://rikisrv.panelbadak.my.id",
+    "panelDetails": {
+      "ram": 3100,
+      "disk": 3100,
+      "cpu": 80,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-25T02:59:45.026Z",
+    "panelExpiryDate": "2025-11-24T02:59:45.027Z",
+    "warrantyExpiryDate": "2025-11-09T02:59:45.026Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
