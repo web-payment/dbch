@@ -426,5 +426,23 @@
     "warrantyExpiryDate": "2025-11-09T16:24:58.924Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-4DDC29",
+    "username": "hanzo",
+    "serverDomain": "https://rikisrv.panelbadak.my.id",
+    "panelDetails": {
+      "ram": 0,
+      "disk": 0,
+      "cpu": 0,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-26T00:24:48.100Z",
+    "panelExpiryDate": "2025-11-25T00:24:48.102Z",
+    "warrantyExpiryDate": "2025-11-10T00:24:48.101Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
