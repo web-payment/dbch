@@ -516,5 +516,23 @@
     "warrantyExpiryDate": "2025-11-13T03:28:47.388Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-8919F4",
+    "username": "webapi",
+    "serverDomain": "https://rikishopreal.idolmesbrewc.my.id",
+    "panelDetails": {
+      "ram": 0,
+      "disk": 0,
+      "cpu": 0,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-29T03:59:00.044Z",
+    "panelExpiryDate": "2025-11-28T03:59:00.044Z",
+    "warrantyExpiryDate": "2025-11-13T03:59:00.044Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
