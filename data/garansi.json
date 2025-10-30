@@ -552,5 +552,23 @@
     "warrantyExpiryDate": "2025-11-14T06:45:27.568Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-334F9D",
+    "username": "san",
+    "serverDomain": "https://rikishopreal.idolmesbrewc.my.id",
+    "panelDetails": {
+      "ram": 8100,
+      "disk": 8100,
+      "cpu": 180,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-10-30T15:52:43.759Z",
+    "panelExpiryDate": "2025-11-29T15:52:43.759Z",
+    "warrantyExpiryDate": "2025-11-14T15:52:43.759Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
