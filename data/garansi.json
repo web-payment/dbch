@@ -570,5 +570,23 @@
     "warrantyExpiryDate": "2025-11-14T15:52:43.759Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-CF051D",
+    "username": "sanjecrot",
+    "serverDomain": "https://rikishopreal.idolmesbrewc.my.id",
+    "panelDetails": {
+      "ram": 2100,
+      "disk": 2100,
+      "cpu": 60,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-11-01T04:20:17.534Z",
+    "panelExpiryDate": "2025-12-01T04:20:17.535Z",
+    "warrantyExpiryDate": "2025-11-16T04:20:17.535Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
