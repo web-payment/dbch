@@ -606,5 +606,23 @@
     "warrantyExpiryDate": "2025-11-20T06:27:13.442Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-F1695F",
+    "username": "ziqhytam",
+    "serverDomain": "https://rikishopreal.idolmesbrewc.my.id",
+    "panelDetails": {
+      "ram": 0,
+      "disk": 0,
+      "cpu": 0,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-11-05T13:38:46.956Z",
+    "panelExpiryDate": "2025-12-05T13:38:46.958Z",
+    "warrantyExpiryDate": "2025-11-20T13:38:46.958Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
