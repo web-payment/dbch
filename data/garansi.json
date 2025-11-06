@@ -624,5 +624,23 @@
     "warrantyExpiryDate": "2025-11-20T13:38:46.958Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-163823",
+    "username": "biszz",
+    "serverDomain": "https://rikishopreal.idolmesbrewc.my.id",
+    "panelDetails": {
+      "ram": 0,
+      "disk": 0,
+      "cpu": 0,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-11-06T14:37:31.066Z",
+    "panelExpiryDate": "2025-12-06T14:37:31.067Z",
+    "warrantyExpiryDate": "2025-11-21T14:37:31.067Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
