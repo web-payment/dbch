@@ -660,5 +660,23 @@
     "warrantyExpiryDate": "2025-11-22T08:33:47.295Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-35F714",
+    "username": "kimi",
+    "serverDomain": "https://rikishopreal.idolmesbrewc.my.id",
+    "panelDetails": {
+      "ram": 2100,
+      "disk": 2100,
+      "cpu": 60,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-11-07T14:13:08.423Z",
+    "panelExpiryDate": "2025-12-07T14:13:08.424Z",
+    "warrantyExpiryDate": "2025-11-22T14:13:08.424Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
