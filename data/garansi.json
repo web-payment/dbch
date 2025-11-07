@@ -642,5 +642,23 @@
     "warrantyExpiryDate": "2025-11-21T14:37:31.067Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-529747",
+    "username": "hyto",
+    "serverDomain": "https://rikishopreal.idolmesbrewc.my.id",
+    "panelDetails": {
+      "ram": 0,
+      "disk": 0,
+      "cpu": 0,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-11-07T08:33:47.294Z",
+    "panelExpiryDate": "2025-12-07T08:33:47.295Z",
+    "warrantyExpiryDate": "2025-11-22T08:33:47.295Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
