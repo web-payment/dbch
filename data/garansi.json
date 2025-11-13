@@ -714,5 +714,23 @@
     "warrantyExpiryDate": "2025-11-28T01:50:53.882Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-F5A8CC",
+    "username": "bohp1",
+    "serverDomain": "https://client9729-panel0-wallganteng.bihost.my.id",
+    "panelDetails": {
+      "ram": 3100,
+      "disk": 3100,
+      "cpu": 80,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-11-13T02:28:02.064Z",
+    "panelExpiryDate": "2025-12-13T02:28:02.064Z",
+    "warrantyExpiryDate": "2025-11-28T02:28:02.064Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
