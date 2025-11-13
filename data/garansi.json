@@ -732,5 +732,23 @@
     "warrantyExpiryDate": "2025-11-28T02:28:02.064Z",
     "status": "active",
     "claimedDate": null
+  },
+  {
+    "code": "RK-6B2FA8",
+    "username": "bohp2",
+    "serverDomain": "https://client9729-panel0-wallganteng.bihost.my.id",
+    "panelDetails": {
+      "ram": 3100,
+      "disk": 3100,
+      "cpu": 80,
+      "egg": "15",
+      "nestid": "5",
+      "loc": "1"
+    },
+    "creationDate": "2025-11-13T02:28:48.547Z",
+    "panelExpiryDate": "2025-12-13T02:28:48.548Z",
+    "warrantyExpiryDate": "2025-11-28T02:28:48.548Z",
+    "status": "active",
+    "claimedDate": null
   }
 ]
